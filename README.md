@@ -1,4 +1,4 @@
 # Projeto-back-e-front-end-Curso-Java
 
-*npm install*
-*npm start*
+*npm install* /
+ *npm start*
